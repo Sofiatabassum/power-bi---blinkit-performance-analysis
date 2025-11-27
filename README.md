@@ -1,5 +1,6 @@
 # Blinkit Sales & Performance Analysis Dashboard
 ![Dashboard Preview] 
+<img width="1383" height="749" alt="Image" src="https://github.com/user-attachments/assets/f945b8eb-ceb1-4692-8ace-8381669dc96a" />
 
 
 ## 📊 Project Overview
